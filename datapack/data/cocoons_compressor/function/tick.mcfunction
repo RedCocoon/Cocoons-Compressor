@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item_display] at @s run function cocoons_compressor:blocks/item_display/tick

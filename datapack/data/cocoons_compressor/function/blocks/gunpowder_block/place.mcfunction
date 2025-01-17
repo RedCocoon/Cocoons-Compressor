@@ -1,0 +1,1 @@
+playsound block.sand.place block @a

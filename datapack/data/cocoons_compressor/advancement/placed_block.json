@@ -1,0 +1,32 @@
+{
+    "criteria": {
+      "place_block": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "location": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "predicates": {
+                    "minecraft:custom_data": {
+                        "cocoons_compressor": {
+                        "custom_block": true
+                        }
+                    }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "place_block"
+      ]
+    ],
+    "rewards": {
+      "function": "cocoons_compressor:blocks/raycast/start"
+    },
+    "sends_telemetry_event": false
+  }

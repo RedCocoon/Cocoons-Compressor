@@ -1,0 +1,10 @@
+{
+  "error.cocoons_compressor.pack_not_loaded": "§aResource Pack for §6<Cocoon's Compressor> §adetected.",
+  "error.cocoons_compressor.click_to_download_resource_pack_v1.2.1": "§aThanks for Downloading Cocoon's Compressor, have fun!",
+  "item.cocoons_compressor.sugar_block": "Block of Sugar",
+  "item.cocoons_compressor.blaze_rod_block": "Block of Blaze Rod",
+  "item.cocoons_compressor.gunpowder_block": "Block of Gunpowder",
+  "item.cocoons_compressor.arrow_block": "Block of Arrow",
+  "item.cocoons_compressor.real_bone_block": "Block of Real Bone",
+  "item.cocoons_compressor.rotten_flesh_block": "Block of Rotten Flesh"
+}

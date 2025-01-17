@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dispenser"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_components",
+          "components": {
+            "minecraft:item_model": "cocoons_compressor:real_bone_block",
+            "minecraft:item_name": "{\"type\": \"translatable\",\"translate\": \"item.cocoons_compressor.real_bone_block\"}",
+            "minecraft:custom_data": {
+              "cocoons_compressor": {
+                "initialized": false,
+                "custom_block": true,
+                "custom_block_type": "real_bone_block"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

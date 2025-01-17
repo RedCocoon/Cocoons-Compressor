@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "cocoons_compressor:block/real_bone_block_side",
+        "end": "cocoons_compressor:block/real_bone_block_top"
+    }
+}

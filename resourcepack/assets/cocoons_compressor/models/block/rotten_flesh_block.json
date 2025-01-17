@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "cocoons_compressor:block/rotten_flesh_block"
+    }
+}

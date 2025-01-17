@@ -1,0 +1,3 @@
+data merge block ~ ~ ~ {components:{"minecraft:custom_data":{cocoons_compressor: {initialized: 1b}}}, lock:{"components":{"minecraft:custom_data":{"cocoons_compressor": {"locked":1b}}}}}
+summon item_display ~ ~ ~ {item:{id:"minecraft:dispenser", count: 1b}, Tags:["cocoons_compressor.NewBlock", "cocoons_compressor.CustomBlock"]}
+execute as @e[type=minecraft:item_display, tag=cocoons_compressor.NewBlock, limit=1, sort= nearest] at @s run function cocoons_compressor:blocks/item_display/initialize

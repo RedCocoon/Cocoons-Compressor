@@ -1,0 +1,1 @@
+playsound block.honey_block.place block @a

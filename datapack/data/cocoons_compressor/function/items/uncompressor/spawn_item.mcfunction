@@ -1,0 +1,1 @@
+$loot spawn ~ ~ ~ loot cocoons_compressor:blocks/$(custom_block_type)

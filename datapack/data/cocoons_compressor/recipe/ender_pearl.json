@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:ender_pearl"
+    ]
+  },
+  "result": {
+    "id": "minecraft:dispenser",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "cocoons_compressor:ender_pearl_block",
+      "minecraft:item_name": "{\"type\": \"translatable\",\"translate\": \"item.cocoons_compressor.ender_pearl_block\"}",
+      "minecraft:custom_data": {
+        "cocoons_compressor": {
+          "initialized": false,
+          "custom_block": true,
+          "custom_block_type": "ender_pearl_block"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dispenser"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_components",
+          "components": {
+            "minecraft:item_model": "cocoons_compressor:ender_pearl_block",
+            "minecraft:item_name": "{\"type\": \"translatable\",\"translate\": \"item.cocoons_compressor.ender_pearl_block\"}",
+            "minecraft:custom_data": {
+              "cocoons_compressor": {
+                "initialized": false,
+                "custom_block": true,
+                "custom_block_type": "ender_pearl_block"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

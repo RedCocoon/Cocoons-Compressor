@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ADA",
+    " A "
+  ],
+  "key": {
+    "A": [
+      "minecraft:iron_ingot"
+    ],
+    "D": [
+      "minecraft:dropper"
+    ]
+  },
+  "result": {
+    "id": "minecraft:carrot_on_a_stick",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "cocoons_compressor:uncompressor_offhand",
+      "minecraft:item_name": "{\"type\": \"translatable\",\"translate\": \"item.cocoons_compressor.uncompressor\"}",
+      "minecraft:custom_data": {
+        "cocoons_compressor": {
+          "id": "uncompressor"
+        }
+      }
+    }
+  }
+}

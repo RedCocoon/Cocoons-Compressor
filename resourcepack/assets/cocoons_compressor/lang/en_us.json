@@ -6,5 +6,17 @@
   "item.cocoons_compressor.gunpowder_block": "Block of Gunpowder",
   "item.cocoons_compressor.arrow_block": "Block of Arrow",
   "item.cocoons_compressor.real_bone_block": "Block of Real Bone",
-  "item.cocoons_compressor.rotten_flesh_block": "Block of Rotten Flesh"
+  "item.cocoons_compressor.rotten_flesh_block": "Block of Rotten Flesh",
+  "item.cocoons_compressor.ender_pearl_block": "Block of Ender Pearl",
+  "item.cocoons_compressor.apple_block": "Block of Apple",
+  "item.cocoons_compressor.carrot_block": "Block of Carrot",
+  "item.cocoons_compressor.potato_block": "Block of Potato",
+  "item.cocoons_compressor.chorus_fruit_block": "Block of Chorus Fruit",
+  "item.cocoons_compressor.berry_block": "Block of Sweet Berries",
+  "item.cocoons_compressor.chicken_block": "Block of Chicken",
+  "item.cocoons_compressor.beef_block": "Block of Beef",
+  "item.cocoons_compressor.porkchop_block": "Block of Porkchop",
+  "item.cocoons_compressor.beetroot_block": "Block of Beetroot",
+  "item.cocoons_compressor.kelp_block": "Block of Kelp",
+  "item.cocoons_compressor.uncompressor": "Uncompressor"
 }

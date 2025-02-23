@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:kelp"
+    ]
+  },
+  "result": {
+    "id": "minecraft:dispenser",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "cocoons_compressor:kelp_block",
+      "minecraft:item_name": "{\"type\": \"translatable\",\"translate\": \"item.cocoons_compressor.kelp_block\"}",
+      "minecraft:custom_data": {
+        "cocoons_compressor": {
+          "initialized": false,
+          "custom_block": true,
+          "custom_block_type": "kelp_block"
+        }
+      }
+    }
+  }
+}
+

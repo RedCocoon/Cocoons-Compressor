@@ -1,1 +1,2 @@
-execute as @e[type=minecraft:item_display] at @s run function cocoons_compressor:blocks/item_display/tick
+execute as @e[type=minecraft:item_display,tag=cocoons_compressor.CustomBlock] at @s run function cocoons_compressor:blocks/item_display/tick
+execute as @a at @s run function cocoons_compressor:items/coas_tick

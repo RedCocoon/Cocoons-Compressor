@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 9,
+              "conditions": []
+            }
+          ],
+          "name": "minecraft:chicken",
+          "conditions": []
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
